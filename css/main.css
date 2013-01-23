@@ -140,14 +140,20 @@ textarea {
 }
 
 .bottom-spikes {
+    background-color: transparent;
     background: url(../img/spikes-bottom.png);
     background-repeat: repeat-x;
+    background-clip: border-box;
+    background-origin: padding-box;
     height: 10px;
 }
 
 .top-spikes {
+    background-color: transparent;
     background: url(../img/spikes-top.png);
     background-repeat: repeat-x;
+    background-clip: border-box;
+    background-origin: padding-box;
     height: 12px;
 }
 
