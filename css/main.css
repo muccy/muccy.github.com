@@ -107,6 +107,11 @@ textarea {
     font-weight: 100;
 }
 
+.bold {
+    font-family: "Raleway", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 600;
+}
+
 .huge {
     font-size: 5.5em;
     margin-left: -0.08em !important; /* Compensation */
@@ -205,6 +210,48 @@ div#about-row {
 div#portfolio-row {
     color: rgb(240, 240, 240);
     background-color: #A87AF1;
+}
+
+div#portfolio-row div#app-icons {
+    margin-top: 20px;
+    position: relative;
+    height: 140px;
+    color: white;
+}
+
+div#portfolio-row div#app-icons a {
+    margin-right: 30px;
+
+    display: block;
+    position: relative;
+    width: 115px;
+    height: 100%;
+    float: left;
+
+    font-family: "Raleway", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 600;
+    font-size: 0.75em;
+    line-height: 2;
+    text-decoration: none;
+    text-align: center;
+    color: inherit;
+}
+
+div#portfolio-row div#app-icons a img {
+    display: block;
+}
+
+div#portfolio-row div#app-icons div {
+    font-family: 'Satisfy', cursive;
+    font-size: 2.8em;
+    line-height: 1;
+    text-align: left;
+
+    position: relative;
+    top: 35px;
+    width: 150px;
+    float: left;
+    padding-left: 8px;
 }
 
 /*  ============================
