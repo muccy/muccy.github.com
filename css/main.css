@@ -94,11 +94,11 @@ textarea {
    ========================================================================== */
 
 .wide-row {
-
+    padding: 10px 0 70px 0;
 }
 
 .row-wrapper {
-    width: 900px;
+    width: 800px;
     margin: 0 auto 0 auto;
 }
 
@@ -121,12 +121,31 @@ textarea {
 }
 
 .greyed {
-    color: #888;
+    color: #7e808b;
+}
+
+.text {
+    font-family: "Raleway", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.wide-row p {
+    margin: 0.1em 0;
+}
+
+.wide-row p.title {
+    margin-bottom: 0.2em;
 }
 
 /*  ============================
     Top row
     ============================ */
+
+div#top-row {
+    padding: 180px 0 80px 0;
+}
 
 div#top-row p.title {
     margin: 0;
@@ -140,6 +159,14 @@ div#top-row p.subtitle {
     margin: -0.5em 0 0 0;
 }
 
+/*  ============================
+    About row
+    ============================ */
+
+div#about-row {
+    background-color: #7e808b;
+    color: white;
+}
 
 
 
