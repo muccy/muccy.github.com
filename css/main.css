@@ -169,16 +169,12 @@ textarea {
     border-top: 1px solid rgba(255, 255, 255, 0.15);
 }
 
-span.arrow {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
 /*  ============================
     Top row
     ============================ */
 
 div#top-row {
-    padding: 180px 0 80px 0;
+    padding: 200px 0 60px 0;
 }
 
 div#top-row p.title {
@@ -195,7 +191,7 @@ div#top-row p.subtitle {
 
 div#top-row .bottom-spikes {
     position: relative;
-    top: 89px; /* 80 padding + 9 image */
+    top: 69px; /* 60 padding-bottom + 9 image */
 }
 
 /*  ============================
@@ -316,15 +312,20 @@ div#cv-row #cv-link {
     ============================ */
 
 div#footer-row {
-
+   /* padding-top: 5px; */
+    padding-bottom: 30px;
 }
 
 div#footer-row .top-spikes {
     position: relative;
-    top: -31px; /* 20 padding + 11 image */
+    top: -31px; /* 20 padding-top + 11 image */
 }
 
-
+div#footer-row a {
+    text-decoration: none;
+    color: #7e808b;
+    border-bottom: 1px dotted #7e808b;
+}
 
 
 
