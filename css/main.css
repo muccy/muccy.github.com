@@ -122,7 +122,7 @@ textarea {
 }
 
 .medium {
-    font-size: 1.9em;
+    font-size: 1.8em;
 }
 
 .greyed {
@@ -167,6 +167,10 @@ textarea {
     -webkit-box-shadow: 5px 0 0px 0px rgba(0, 0, 0, 0.25);
     box-shadow: 0px -2px 4px 0px rgba(0, 0, 0, 0.15);
     border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+span.arrow {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*  ============================
@@ -263,8 +267,45 @@ div#cv-row {
     background-color: #4BA45E;
 }
 
+div#cv-row .top-spaced {
+    margin-top: 50px;
+}
+
+div#cv-row ul {
+    margin: 0 0;
+    list-style-type: none;
+}
+
+div#cv-row ul ul { /* Nested list */
+    margin: 0 0;
+    list-style-type: circle;
+    padding-left: 19px;
+}
+
+div#cv-row ul li {
+    margin-top: 9px;
+}
+
+div#cv-row ul ul li { /* Nested list */
+    margin-top: 3px;
+}
+
+div#cv-row ul ul li span { /* Nested list */
+    position: relative;
+    left: -4px; /* Less space between bullet and text */ 
+}
+
+div#cv-row ul li div.title {
+
+}
+
+div#cv-row ul li .subtitle {
+    font-weight: 100; /* Ultralight */
+    line-height: 1.4;
+}
+
 /*  ============================
-    CV row
+    Footer row
     ============================ */
 
 div#footer-row {
