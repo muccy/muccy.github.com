@@ -197,7 +197,6 @@ div#about-row {
     background-color: rgb(251, 251, 251);
     color: rgb(70, 70, 70);
     background-image: url(../img/patterns/gplaypattern.png);
-    text-shadow: rgba(20, 20, 20, 0.3) 0 2px 4px;
 }
 
 /*  ============================
@@ -208,7 +207,6 @@ div#portfolio-row {
     color: rgb(20, 20, 20);
     background-color: rgb(220, 222, 222);
     background-image: url(../img/patterns/shattered.png);
-    text-shadow: rgba(20, 20, 20, 0.4) 0 2px 4px;
 }
 
 div#portfolio-row div#app-icons {
@@ -216,7 +214,6 @@ div#portfolio-row div#app-icons {
     position: relative;
     height: 140px;
     color: rgb(60, 60, 60);
-    text-shadow: rgba(20, 20, 20, 0.4) 0 1px 2px;
 }
 
 div#portfolio-row div#app-icons a {
@@ -262,7 +259,6 @@ div#cv-row {
     color: black;
     background-color: rgb(240, 243, 243);
     background-image: url(../img/patterns/handmadepaper.png);
-    text-shadow: rgba(20, 20, 20, 0.35) 0 2px 4px;
 }
 
 div#cv-row .top-spaced {
@@ -306,8 +302,7 @@ div#cv-row #cv-link {
     text-decoration: none;
     color: rgb(110, 110, 110);
     border-bottom: 1px dotted rgb(110, 110, 110);
-    text-shadow: rgba(20, 20, 20, 0.2) 0 1px 2px;
-
+    
     /* Top margin is `div#cv-row ul` bottom margin */
 }
 
