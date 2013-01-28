@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marco Muccinelli -- Programmer
 
 # THANKS
 
-    <name>
+    Myself
 
 # TECHNOLOGY COLOPHON
 
