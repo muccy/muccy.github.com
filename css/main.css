@@ -95,6 +95,8 @@ textarea {
 
 .wide-row {
     padding: 20px 0 70px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.70);
+    border-bottom: 1px solid rgba(70, 70, 70, 0.15);
 }
 
 .row-wrapper {
@@ -126,7 +128,7 @@ textarea {
 }
 
 .greyed {
-    color: #7e808b;
+    color: rgb(172, 174, 174);
 }
 
 .text {
@@ -162,13 +164,6 @@ textarea {
     height: 12px;
 }
 
-.box-top-shadowed {
-    -moz-box-shadow: 5px 0 4px 0px rgba(0, 0, 0, 0.25);
-    -webkit-box-shadow: 5px 0 0px 0px rgba(0, 0, 0, 0.25);
-    box-shadow: 0px -2px 4px 0px rgba(0, 0, 0, 0.15);
-    border-top: 1px solid rgba(255, 255, 255, 0.15);
-}
-
 /*  ============================
     Top row
     ============================ */
@@ -199,8 +194,10 @@ div#top-row .bottom-spikes {
     ============================ */
 
 div#about-row {
-    background-color: #7e808b;
-    color: white;
+    background-color: rgb(251, 251, 251);
+    color: rgb(70, 70, 70);
+    background-image: url(../img/patterns/gplaypattern.png);
+    text-shadow: rgba(20, 20, 20, 0.3) 0 2px 4px;
 }
 
 /*  ============================
@@ -208,15 +205,18 @@ div#about-row {
     ============================ */
 
 div#portfolio-row {
-    color: rgb(240, 240, 240);
-    background-color: #A87AF1;
+    color: rgb(20, 20, 20);
+    background-color: rgb(220, 222, 222);
+    background-image: url(../img/patterns/shattered.png);
+    text-shadow: rgba(20, 20, 20, 0.4) 0 2px 4px;
 }
 
 div#portfolio-row div#app-icons {
     margin-top: 20px;
     position: relative;
     height: 140px;
-    color: white;
+    color: rgb(60, 60, 60);
+    text-shadow: rgba(20, 20, 20, 0.4) 0 1px 2px;
 }
 
 div#portfolio-row div#app-icons a {
@@ -259,8 +259,10 @@ div#portfolio-row div#app-icons div {
     ============================ */
 
 div#cv-row {
-    color: white;
-    background-color: #4BA45E;
+    color: black;
+    background-color: rgb(240, 243, 243);
+    background-image: url(../img/patterns/handmadepaper.png);
+    text-shadow: rgba(20, 20, 20, 0.35) 0 2px 4px;
 }
 
 div#cv-row .top-spaced {
@@ -302,8 +304,10 @@ div#cv-row ul li .subtitle {
 
 div#cv-row #cv-link {
     text-decoration: none;
-    color: white;
-    border-bottom: 1px dotted white;
+    color: rgb(110, 110, 110);
+    border-bottom: 1px dotted rgb(110, 110, 110);
+    text-shadow: rgba(20, 20, 20, 0.2) 0 1px 2px;
+
     /* Top margin is `div#cv-row ul` bottom margin */
 }
 
