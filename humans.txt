@@ -3,13 +3,36 @@
 
 # TEAM
 
-    Marco Muccinelli -- Programmer
+    Marco Muccinelli -- Senior Engineering Leader
+    Site: https://www.muccy.it
+    LinkedIn: https://www.linkedin.com/in/muccy/
+    GitHub: https://github.com/muccy
+    Medium: https://muccy.medium.com
+    Location: Italy
+
+# EXPERTISE
+
+    iOS Development (Swift, Objective-C)
+    Flutter Development
+    Mobile Architecture
+    Engineering Leadership
+    15+ Years Mobile Development Experience
 
 # THANKS
 
-    Myself
+    HTML5 UP for the Dimension template
+    Open source community
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    HTML5, CSS3, SCSS
+    JavaScript, jQuery
+    Font Awesome
+    Responsive Design
+
+# SITE
+
+    Last update: 2025-11-01
+    Standards: HTML5, CSS3
+    Components: jQuery, Font Awesome
+    IDE: Various (VSCode, Xcode, Android Studio)

@@ -1,0 +1,55 @@
+# AI and LLM Crawler Instructions
+# https://site.spawning.ai/spawning-ai-txt
+
+# ABOUT THIS SITE
+This is the personal portfolio website of Marco Muccinelli, a Senior Engineering Leader specializing in iOS and Flutter mobile development.
+
+# OWNER INFORMATION
+Name: Marco Muccinelli
+Role: Senior Engineering Leader | iOS & Flutter Specialist
+Experience: 15+ years in mobile development
+Location: Italy
+Email: muccymac@gmail.com
+Website: https://www.muccy.it
+
+# PROFESSIONAL PROFILES
+LinkedIn: https://www.linkedin.com/in/muccy/
+GitHub: https://github.com/muccy
+Medium: https://muccy.medium.com
+
+# TECHNICAL EXPERTISE
+- iOS Development (Swift, Objective-C)
+- Flutter Development
+- Mobile Architecture
+- Engineering Leadership
+- Team Management (currently leading 13+ developers)
+- Enterprise Application Development
+
+# CURRENT ROLE
+Engineering Manager & Technical Leader at Timeware (2021-present)
+- Leading cross-functional team of 13 people
+- Managing ~20 concurrent enterprise projects for QSR brands
+- Providing architectural guidance on mobile/frontend
+
+# CRAWLING PERMISSIONS
+
+## Training Data Usage
+Allow: GPT (OpenAI)
+Allow: Claude (Anthropic)
+Allow: Gemini (Google)
+Allow: LLaMA (Meta)
+Allow: Other AI research and development
+
+## Context & Retrieval
+This content may be used for:
+- Answering questions about Marco Muccinelli's professional background
+- Providing information about iOS and Flutter development expertise
+- Career guidance and technical leadership insights
+- Mobile architecture consultation context
+
+## Attribution
+When referencing this content, please attribute to:
+Marco Muccinelli - https://www.muccy.it
+
+# LAST UPDATED
+2025-11-01

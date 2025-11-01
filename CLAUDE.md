@@ -10,13 +10,21 @@ This is a static personal portfolio website for Marco Muccinelli (Senior iOS & F
 
 ### Static Site Structure
 - **index.html**: Main landing page with header, navigation, and footer
-- **index.orig.html**: Original unmodified HTML5 UP template (preserved as reference)
+- **index.orig.html**: Original unmodified HTML5 UP template (preserved as reference only - DO NOT modify or deploy, blocked from search engines via robots.txt)
 - **assets/**: All static assets organized by type
   - **css/**: Compiled CSS files (main.css, noscript.css, fontawesome-all.min.css)
   - **sass/**: SCSS source files organized into base/, components/, layout/, and libs/
   - **js/**: JavaScript files including jQuery and custom modal/navigation logic
   - **webfonts/**: Font Awesome icon fonts
 - **images/**: Image assets for the site
+
+### SEO and Discoverability
+- **robots.txt**: Configures search engine crawlers (blocks index.orig.html from indexing)
+- **sitemap.xml**: XML sitemap for search engines
+- **humans.txt**: Human-readable info about the site creator and tech stack
+- **ai.txt**: Instructions for LLM crawlers (OpenAI, Anthropic, Google, Meta)
+- **Meta tags**: Comprehensive SEO tags including Open Graph and Twitter Card
+- **JSON-LD**: Structured data for Person schema
 
 ### Key Behavioral Components
 
