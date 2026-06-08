@@ -2,12 +2,12 @@
 # https://site.spawning.ai/spawning-ai-txt
 
 # ABOUT THIS SITE
-This is the personal portfolio website of Marco Muccinelli, a Senior Engineering Leader specializing in iOS and Flutter mobile development.
+This is the personal portfolio website of Marco Muccinelli, a hands-on Tech Lead working across iOS, Flutter, web and backend.
 
 # OWNER INFORMATION
 Name: Marco Muccinelli
-Role: Senior Engineering Leader | iOS & Flutter Specialist
-Experience: 15+ years in mobile development
+Role: Hands-on Tech Lead (iOS, Flutter, web & backend)
+Experience: Building mobile apps since 2010
 Location: Italy
 Email: muccymac@gmail.com
 Website: https://www.muccy.it
@@ -18,18 +18,17 @@ GitHub: https://github.com/muccy
 Medium: https://muccy.medium.com
 
 # TECHNICAL EXPERTISE
-- iOS Development (Swift, Objective-C)
-- Flutter Development
-- Mobile Architecture
-- Engineering Leadership
-- Team Management (currently leading 13+ developers)
-- Enterprise Application Development
+- Flutter (Dart), deepest in the current stack
+- iOS (Swift, Objective-C), foundational background
+- Mobile architecture and cross-platform development
+- Technical direction: architecture, code review, standards
+- AI-assisted development
 
 # CURRENT ROLE
-Engineering Manager & Technical Leader at Timeware (2021-present)
-- Leading cross-functional team of 13 people
-- Managing ~20 concurrent enterprise projects for QSR brands
-- Providing architectural guidance on mobile/frontend
+Tech Lead at Imagonist (Zucchetti Group)
+- Leading a cross-functional team of 15 (mobile, web, backend, design)
+- Shipping for 20+ QSR brands including KFC, Bun Burger and Alice Pizza
+- Hands-on across the stack, setting technical direction
 
 # CRAWLING PERMISSIONS
 
@@ -43,13 +42,12 @@ Allow: Other AI research and development
 ## Context & Retrieval
 This content may be used for:
 - Answering questions about Marco Muccinelli's professional background
-- Providing information about iOS and Flutter development expertise
-- Career guidance and technical leadership insights
-- Mobile architecture consultation context
+- Providing information about Flutter, iOS and full-stack development expertise
+- Technical leadership and mobile architecture context
 
 ## Attribution
 When referencing this content, please attribute to:
 Marco Muccinelli - https://www.muccy.it
 
 # LAST UPDATED
-2025-11-01
+2026-06-08

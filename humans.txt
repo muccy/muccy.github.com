@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Marco Muccinelli -- Senior Engineering Leader
+    Marco Muccinelli -- Hands-on Tech Lead
     Site: https://www.muccy.it
     LinkedIn: https://www.linkedin.com/in/muccy/
     GitHub: https://github.com/muccy
@@ -12,11 +12,11 @@
 
 # EXPERTISE
 
+    Flutter (Dart)
     iOS Development (Swift, Objective-C)
-    Flutter Development
-    Mobile Architecture
-    Engineering Leadership
-    15+ Years Mobile Development Experience
+    Mobile Architecture & Cross-platform
+    Web & Backend
+    Technical Leadership
 
 # THANKS
 
@@ -32,7 +32,7 @@
 
 # SITE
 
-    Last update: 2025-11-01
+    Last update: 2026-06-08
     Standards: HTML5, CSS3
     Components: jQuery, Font Awesome
     IDE: Various (VSCode, Xcode, Android Studio)
