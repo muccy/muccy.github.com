@@ -27,7 +27,7 @@ Medium: https://muccy.medium.com
 # CURRENT ROLE
 Tech Lead at Imagonist (Zucchetti Group)
 - Leading a cross-functional team of 15 (mobile, web, backend, design)
-- Shipping for 20+ QSR brands including KFC, Bun Burger and Alice Pizza
+- Shipping for 20+ QSR brands
 - Hands-on across the stack, setting technical direction
 
 # CRAWLING PERMISSIONS
