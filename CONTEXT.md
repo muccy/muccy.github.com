@@ -12,12 +12,8 @@ _Avoid_: Engineering Manager, Engineering Leader, Manager, Team Lead
 The current client/team. One continuous engagement since 2021; ownership moved from Timeware to the Zucchetti Group, the team and product stayed the same.
 _Avoid_: Timeware (as the current client), Zucchetti (as employer — it is the owner, not an internal role)
 
-**Bun Burger**:
-A real QSR client brand. Always this name.
-_Avoid_: Burger King
-
 **QSR brands**:
-The 20+ Quick Service Restaurant brands the team ships for (KFC, Bun Burger, Alice Pizza).
+The 20+ Quick Service Restaurant brands the team ships for. Never name them: the end clients of Imagonist are confidential (contract art. 7).
 _Avoid_: enterprise projects, concurrent projects
 
 **Flutter (Dart)**:
